@@ -1,3 +1,4 @@
+//Simple function displays result
 function addition(value) {
     console.log("Value is: " + value);
 }
